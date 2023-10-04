@@ -1,0 +1,9 @@
+.container{
+    padding: 20px;
+}
+
+.container h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
